@@ -10,4 +10,10 @@ public abstract class Academy {
 	public abstract void solveHomework();
 	public abstract void rest();
 	public abstract void attend();
+
+	public void setLecTime(int i) {
+	}
+
+	public void lectureInfo() {
+	}
 }

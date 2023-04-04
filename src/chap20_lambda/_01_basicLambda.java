@@ -6,6 +6,7 @@ public class _01_basicLambda {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+		//
 		action((a, b) -> {
 			int result = a + b;
 			System.out.println(result);
@@ -26,7 +27,7 @@ public class _01_basicLambda {
 		int a = 10;
 		int b = 4;
 		
-		calc.calculate(a, b);
+		calc.calculator(a, b);
 	}
 	
 }
