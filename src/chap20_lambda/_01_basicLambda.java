@@ -1,11 +1,13 @@
 package chap20_lambda;
-
+import java.util.Scanner;
 import chap20_lambda.clazz.Calculator;
 
 public class _01_basicLambda {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+
+
 		//
 		action((a, b) -> {
 			int result = a + b;
